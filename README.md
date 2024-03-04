@@ -2,6 +2,8 @@
 
 **RAG-GPT** is your interactive document companion, facilitating seamless conversations with your documents, including both PDFs and Docs. 
 
+https://github.com/SiddharthUchil/RAG-GPT/assets/36127139/435b9b53-b7e2-4537-86d6-e5779a4756b0
+
 **The chatbot offers versatile usage through three distinct methods:**
 1. **Offline Documents**: Engage with documents that you've pre-processed and vectorized. These documents can be seamlessly integrated into your chat sessions.
 2. **Real-time Uploads:** Easily upload documents during your chat sessions, allowing the chatbot to process and respond to the content on-the-fly.
