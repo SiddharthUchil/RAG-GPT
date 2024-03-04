@@ -1,8 +1,8 @@
 directories:
   data_directory: data/docs
   data_directory_2: data/docs_2
-  persist_directory: GPT-RAG/data/vectordb/processed/chroma/
-  custom_persist_directory: GPT-RAG/data/vectordb/uploaded/chroma/
+  persist_directory: data/vectordb/processed/chroma/
+  custom_persist_directory: data/vectordb/uploaded/chroma/
 
 embedding_model_config:
   gpt_model: "gpt-3.5-turbo"

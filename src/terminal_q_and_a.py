@@ -19,7 +19,7 @@ from openai import OpenAI
 APPCFG = LoadConfig()
 
 
-with open(os.path.join(here(), "GPT-RAG", "configs", "app_config.yml")) as cfg:
+with open(os.path.join(here(), "configs", "app_config.yml")) as cfg:
     app_config = yaml.load(cfg, Loader=yaml.FullLoader)
 
 # Load the embedding function
