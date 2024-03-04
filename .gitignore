@@ -1,0 +1,5 @@
+vectordb
+vectordb/
+.env
+venv/
+venv
